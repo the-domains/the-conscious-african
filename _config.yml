@@ -1,0 +1,28 @@
+name: The Conscious African
+favicon: null
+layout_spectrum: 0.7248174997512251
+typography_spectrum: 0.5549175282940269
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3417816152796149
+  lightness: 0.20010049385018647
+  saturation: 0.6897110424470156
+  rhythmicContrast: 0.296751907793805
+purpose: []
